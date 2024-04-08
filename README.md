@@ -1,6 +1,6 @@
 ### Pleasure, my name is Vinícius Assunção Marins and I have a degree in Computer Science, feel free to take a good look at my personal projects!
 
-## ⚙️ &nbsp;GitHub Analytics
+#### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMarins&show_icons=true&theme=one_dark_pro" />
