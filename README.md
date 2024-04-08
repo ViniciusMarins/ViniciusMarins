@@ -1,4 +1,4 @@
-### Hi there 👋
+### Pleasure, my name is Vinícius Assunção Marins and I have a degree in Computer Science, feel free to take a good look at my personal projects!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
